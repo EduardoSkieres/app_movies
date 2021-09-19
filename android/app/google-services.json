@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534515139044",
+    "project_id": "app-filmes-dce56",
+    "storage_bucket": "app-filmes-dce56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534515139044:android:cc9b687afa14e9ce5a87f1",
+        "android_client_info": {
+          "package_name": "br.skieres.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534515139044-a4m0ln5gsqb4pcrtquoesg9ujqjarfmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.skieres.app_filmes",
+            "certificate_hash": "407c52c27247c8e30de7d378fa9f98d353fd5a15"
+          }
+        },
+        {
+          "client_id": "534515139044-3buq8pjpsecgatf8aih2jflu0cjsu1et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi58yCVo1-t-5aP_vjhlSELqJwY00GXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534515139044-3buq8pjpsecgatf8aih2jflu0cjsu1et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
