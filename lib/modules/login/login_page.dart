@@ -41,9 +41,6 @@ class LoginPage extends GetView<LoginController> {
                     text: 'Entrar com o Google',
                   ),
                 ),
-                Obx(() {
-                  return Text(controller.nome.value);
-                })
               ],
             ),
           )
