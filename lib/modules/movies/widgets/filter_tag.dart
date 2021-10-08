@@ -1,5 +1,5 @@
 import 'package:app_filmes/app/ui/theme_extensions.dart';
-import 'package:app_filmes/models/genre.model.dart';
+import 'package:app_filmes/models/genre_model.dart';
 import 'package:flutter/material.dart';
 
 class FilterTag extends StatelessWidget {
